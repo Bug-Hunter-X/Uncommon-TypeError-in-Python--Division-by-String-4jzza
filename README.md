@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error that can occur in Python when attempting to perform a mathematical operation (division in this case) on an incompatible data type. Specifically, it highlights the TypeError that arises when attempting to divide an integer by a string.  The solution shows a robust approach to handle such errors using exception handling.
